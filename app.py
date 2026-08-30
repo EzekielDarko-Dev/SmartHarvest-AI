@@ -6,7 +6,7 @@ from google.genai import types
 
 # Load API key from .env file
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("AQ.Ab8RN6J68094yU-FCkk2ciIFLDQnWAZjJY0kZi2phgnZ7RF4yA")
 
 # Set up the Google GenAI Client
 if api_key:
